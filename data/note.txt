@@ -1,0 +1,2 @@
+* Posterior al cleaning process es necesario correr las series con tratamiento alternativo
+ (series_process)

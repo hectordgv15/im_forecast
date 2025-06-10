@@ -1,0 +1,19 @@
+* Revisar pesos de la tasa de paro, dado que la ponderación la debería dictar la
+población activo y no la población total.
+
+* Revisar los parámetros P y Q de SARIMA
+
+* Contrastar resultados del modelo VAR con ejercicio manual en Notebokks
+
+* Revisar conversión de valores del modelo VAR y preparar el modelo para que reciba series con historial reducido.
+
+* Rehacer la pestaña de comunidades
+
+* Hacer un pool de variables diversificado para pronosticar todas las demás a través de
+SARIMA. (Idealmente deberían ser de las cuales tenemos información del Banco de España y el
+panel de funcas). De este modo tendríamos un único modelo SARIMA en el que cada una de las
+variables es pronosticada por las mas representativas.
+
+* Añadir Dataframe anual de valor absoluto
+
+* Probar Tasa de paro con pvalue 0.05 en modelo VAR

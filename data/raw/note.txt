@@ -1,0 +1,1 @@
+* Asegurar que los nombres de las hojas de los excel originales no tengan espacios al inicio y al final
